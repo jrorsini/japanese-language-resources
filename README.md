@@ -1,6 +1,7 @@
 # japanese language resources list for learners
 
 ## Search engine
+- <a href="http://example.com/" target="_blank">Hello, world!</a>
 - https://db4.ninjal.ac.jp/vvlexicon/db/
 - http://www.manythings.org/japanese/words/leeds/
 - http://www.japaneseverbconjugator.com/VerbDetails.asp?txtVerb=iku&Go=Conjugate
